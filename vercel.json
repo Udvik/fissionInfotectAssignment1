@@ -1,12 +1,7 @@
 
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "leo9-hero-navbar/package.json",
-      "use": "@vercel/static-build"
-    }
-  ],
+  
   "framework": "vite",
   "installCommand": "npm install",
   "buildCommand": "npm run build",
